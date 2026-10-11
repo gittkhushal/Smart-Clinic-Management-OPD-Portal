@@ -133,5 +133,5 @@ The interface adapts smoothly to all viewport sizes:
 
 ## 📄 License & Attribution
 
-- **Project & Code:** MIT License — Developed by [Khushal](https://github.com/gittkhushal).
+- **Project & Code:** MIT License — Developed by [Khushal Nagpure](https://github.com/gittkhushal),Nayan Nagendra,Om Agarwal.
 - **Client Branding:** Courtesy of **Shree J Hospital (श्रीजे हॉस्पिटल)**, Bibwewadi, Pune.
